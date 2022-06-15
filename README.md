@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tentse
+- 👋 Hi, I’m @10zin
 - 👀 I’m interested in CP
 
 <!---
