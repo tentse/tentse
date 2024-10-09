@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @10zin
 - 👀 I’m interested in CP
+- Interest in backend development
 
 <!---
 tentse/tentse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
